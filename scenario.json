@@ -1,0 +1,16 @@
+[
+    {
+        "method": "GET",
+        "url": "https://www.rust-lang.org"
+    },
+    {
+        "method": "GET",
+        "url": "https://localhost"
+    },
+    {
+        "method": "GET",
+        "url": "https://google.com"
+    }
+
+
+]
